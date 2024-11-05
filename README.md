@@ -1,3 +1,5 @@
 # Example-conflict
-###jhhwhnkjcnkalsjdhcoqiuhw
+
 Hello..Divya here!!I love Coding & Reading
+
+Collaborative project to learn conflict-resolution!
